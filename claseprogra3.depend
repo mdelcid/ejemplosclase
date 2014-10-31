@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1413987868 source:c:\users\maverick del cid\documents\claseprogra3\main.cpp
+	<iostream>
+	"MiClase.h"
+
+1413815196 c:\users\maverick del cid\documents\claseprogra3\miclase.h
+	<iostream>
+
+1413815195 source:c:\users\maverick del cid\documents\claseprogra3\miclase.cpp
+	"MiClase.h"
+
+1413987867 source:c:\users\maverick del cid\documents\claseprogra3\personaje.cpp
+	"Personaje.h"
+
+1413987868 c:\users\maverick del cid\documents\claseprogra3\personaje.h
+
